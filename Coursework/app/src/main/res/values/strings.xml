@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Coursework</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="nav_courses">Courses</string>
+    <string name="nav_stats">Stats</string>
+    <string name="separator_title">Tools</string>
+    <string name="nav_download">Download</string>
+
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+    <string name="result">Result</string>
+    <string name="ok">OK</string>
+
+    <string name="show_or_hide">Show or hide</string>
+    <string name="question">Question %1$d</string>
+    <string name="submit">Submit</string>
+    <string name="answer">Answer : %1$s</string>
+    <string name="your_answer">Your answer : %1$s</string>
+
+    <string name="download">Download</string>
+    <string name="open">Open</string>
+
+    <string name="no_courses">No courses are downloaded on your device yet\nTurn on the internet and go to Download in the drawer menu</string>
+    <string name="no_quiz_result">No quiz has been answered to for this topic</string>
+
+</resources>
